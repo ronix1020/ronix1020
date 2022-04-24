@@ -8,7 +8,6 @@ I am a university student in the career of Systems Engineering and Computer Netw
 
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [ronyalexis77@gmail.com](mailto:ronyalexis77@gmail.com)
-* 🚀  I'm currently working on [Roots](http://solucionesroots.com)
 * 🧠  I'm learning React Native and Flutter
 
 ### Skills
